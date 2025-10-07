@@ -1,4 +1,6 @@
 # Munchie MiniVideo Converter
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H11MFEZL)
+
 
 Create tiny looping animations from videos with a clean Qt GUI. Supports animated WebP, GIF, and APNG, with optional motion interpolation to boost frame rate.
 
